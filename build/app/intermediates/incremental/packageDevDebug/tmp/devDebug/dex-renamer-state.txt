@@ -1,0 +1,4 @@
+#Mon Aug 09 11:36:08 IST 2021
+base.0=D\:\\AndroidStudioProjects\\flutterproject\\counterapp_flavors\\build\\app\\intermediates\\dex\\devDebug\\mergeDexDevDebug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
