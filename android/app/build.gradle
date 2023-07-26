@@ -28,21 +28,24 @@ apply plugin: 'kotlin-android'
 apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
 
 android {
-    compileSdkVersion 29
+    compileSdkVersion 33
+    ndkVersion flutter.ndkVersion
 
     sourceSets {
         main.java.srcDirs += 'src/main/kotlin'
     }
 
+
     lintOptions {
         disable 'InvalidPackage'
+        checkReleaseBuilds false
     }
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         applicationId "com.pcc.counterapp"
-        minSdkVersion 16
-        targetSdkVersion 29
+        minSdkVersion 21
+        targetSdkVersion 33
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
     }
@@ -67,13 +70,13 @@ android {
         dev {
             dimension "counterapp"
             applicationIdSuffix ".dev"
-            resValue "string", "app_name", "Counter App Dev"
+            resValue "string", "app_name", "App Dev"
             versionNameSuffix ".dev"
         }
         prod {
             dimension "counterapp"
             applicationIdSuffix ".prod"
-            resValue "string", "app_name", "Counter App Prod"
+            resValue "string", "app_name", "App Prod"
             versionNameSuffix ".prod"
         }
     }
@@ -88,3 +91,5 @@ dependencies {
     implementation platform('com.google.firebase:firebase-bom:26.5.0')
     implementation 'com.google.firebase:firebase-analytics-ktx'
 }
+
+

@@ -3,7 +3,7 @@
 
     <!-- Automatically generated file. DO NOT MODIFY -->
 
-    <!-- Values from product flavor: prod -->
+    <!-- Value from product flavor: prod -->
     <string name="app_name" translatable="false">Counter App Prod</string>
 
 </resources>

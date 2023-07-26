@@ -3,8 +3,7 @@ import 'package:counterapp_flavors/app_config.dart';
 import 'package:flutter/material.dart';
 
 void main() async {
-  AppConfig devAppConfig =
-      AppConfig(appName: 'CounterApp Prod', flavor: 'prod');
+  AppConfig devAppConfig = AppConfig(appName: 'App Prod', flavor: 'prod');
   Widget app = await initializeApp(devAppConfig);
   runApp(app);
 }

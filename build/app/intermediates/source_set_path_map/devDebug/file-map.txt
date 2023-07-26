@@ -1,0 +1,20 @@
+com.pcc.counterapp_flavors.app-jetified-window-1.0.0-beta04-0 C:\Users\Albiorix Technology\.gradle\caches\transforms-3\1d629e0dd0692d336666d8171ff91456\transformed\jetified-window-1.0.0-beta04\res
+com.pcc.counterapp_flavors.app-jetified-play-services-basement-18.1.0-1 C:\Users\Albiorix Technology\.gradle\caches\transforms-3\5a66b9adaa51d81bc093cdd87290adf6\transformed\jetified-play-services-basement-18.1.0\res
+com.pcc.counterapp_flavors.app-jetified-annotation-experimental-1.1.0-2 C:\Users\Albiorix Technology\.gradle\caches\transforms-3\6519dc9a4a6119db24857c33c7d99ae6\transformed\jetified-annotation-experimental-1.1.0\res
+com.pcc.counterapp_flavors.app-core-1.6.0-3 C:\Users\Albiorix Technology\.gradle\caches\transforms-3\ae9cb06a6d332acc8eabc8116611a8ad\transformed\core-1.6.0\res
+com.pcc.counterapp_flavors.app-jetified-window-java-1.0.0-beta04-4 C:\Users\Albiorix Technology\.gradle\caches\transforms-3\ce3b836dc31dbe2ee4adcc4430d72271\transformed\jetified-window-java-1.0.0-beta04\res
+com.pcc.counterapp_flavors.app-jetified-play-services-base-18.1.0-5 C:\Users\Albiorix Technology\.gradle\caches\transforms-3\d889d13844494532c61bee085a1afab4\transformed\jetified-play-services-base-18.1.0\res
+com.pcc.counterapp_flavors.app-jetified-firebase-common-20.3.3-6 C:\Users\Albiorix Technology\.gradle\caches\transforms-3\f60aafa99b8e476098e42f213d889a39\transformed\jetified-firebase-common-20.3.3\res
+com.pcc.counterapp_flavors.app-debug-7 E:\AndroidStudioProjects\Flutter_Example\flutter_flavors\android\app\src\debug\res
+com.pcc.counterapp_flavors.app-dev-8 E:\AndroidStudioProjects\Flutter_Example\flutter_flavors\android\app\src\dev\res
+com.pcc.counterapp_flavors.app-devDebug-9 E:\AndroidStudioProjects\Flutter_Example\flutter_flavors\android\app\src\devDebug\res
+com.pcc.counterapp_flavors.app-main-10 E:\AndroidStudioProjects\Flutter_Example\flutter_flavors\android\app\src\main\res
+com.pcc.counterapp_flavors.app-dev-11 E:\AndroidStudioProjects\Flutter_Example\flutter_flavors\build\app\generated\res\google-services\dev\debug
+com.pcc.counterapp_flavors.app-dev-12 E:\AndroidStudioProjects\Flutter_Example\flutter_flavors\build\app\generated\res\pngs\dev\debug
+com.pcc.counterapp_flavors.app-dev-13 E:\AndroidStudioProjects\Flutter_Example\flutter_flavors\build\app\generated\res\resValues\dev\debug
+com.pcc.counterapp_flavors.app-dev-14 E:\AndroidStudioProjects\Flutter_Example\flutter_flavors\build\app\generated\res\rs\dev\debug
+com.pcc.counterapp_flavors.app-mergeDevDebugResources-15 E:\AndroidStudioProjects\Flutter_Example\flutter_flavors\build\app\intermediates\incremental\devDebug\mergeDevDebugResources\merged.dir
+com.pcc.counterapp_flavors.app-mergeDevDebugResources-16 E:\AndroidStudioProjects\Flutter_Example\flutter_flavors\build\app\intermediates\incremental\devDebug\mergeDevDebugResources\stripped.dir
+com.pcc.counterapp_flavors.app-merged_res-17 E:\AndroidStudioProjects\Flutter_Example\flutter_flavors\build\app\intermediates\merged_res\devDebug
+com.pcc.counterapp_flavors.app-packaged_res-18 E:\AndroidStudioProjects\Flutter_Example\flutter_flavors\build\firebase_core\intermediates\packaged_res\debug
+com.pcc.counterapp_flavors.app-packaged_res-19 E:\AndroidStudioProjects\Flutter_Example\flutter_flavors\build\firebase_database\intermediates\packaged_res\debug
